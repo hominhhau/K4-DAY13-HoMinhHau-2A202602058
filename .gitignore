@@ -27,6 +27,9 @@ run-*/
 qc-cases/
 provided-results/
 K4-DAY13-*/
+!report/K4-DAY13-*/
+!report/K4-DAY13-*/TEAMMATES.md
+!report/K4-DAY13-*/PRE-LABEL-REPORT.md
 .DS_Store
 
 # Only the explicitly licensed KITTI adaptation is published.
